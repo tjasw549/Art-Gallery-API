@@ -1,0 +1,22 @@
+{
+  "name": "art-gallery-api",
+  "version": "1.0.0",
+  "description": "Server-side API providing searchable artwork, artist, and gallery data using Node.js, Express, and JSON datasets (COMP 3612 Assignment 3).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjasw549/Art-Gallery-API.git"
+  },
+  "author": "Tarun Jaswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjasw549/Art-Gallery-API/issues"
+  },
+  "homepage": "https://github.com/tjasw549/Art-Gallery-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
