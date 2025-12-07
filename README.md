@@ -4,19 +4,19 @@ COMP 3612 — Assignment 3
 
 ---
 
-## 🌐 Deployment
+## Deployment
 The API is live at:
 
 **https://art-gallery-api-y79h.onrender.com**
 
 ---
 
-## 🔍 Example API Requests  
+## Example API Requests  
 Click any link below to test each API endpoint directly.
 
 ---
 
-## 🎨 Paintings Endpoints
+## Paintings Endpoints
 
 - https://art-gallery-api-y79h.onrender.com/api/paintings  
 - https://art-gallery-api-y79h.onrender.com/api/painting/433  
@@ -35,7 +35,7 @@ Click any link below to test each API endpoint directly.
 
 ---
 
-## 👩‍🎨 Artist Endpoints
+## Artist Endpoints
 
 - https://art-gallery-api-y79h.onrender.com/api/artists  
 - https://art-gallery-api-y79h.onrender.com/api/artists/FRANCE  
@@ -44,7 +44,7 @@ Click any link below to test each API endpoint directly.
 
 ---
 
-## 🏛 Galleries Endpoints
+## Galleries Endpoints
 
 - https://art-gallery-api-y79h.onrender.com/api/galleries  
 - https://art-gallery-api-y79h.onrender.com/api/galleries/france  
@@ -52,7 +52,7 @@ Click any link below to test each API endpoint directly.
 
 ---
 
-## 📝 Notes
+## Notes
 - All API responses are returned in **JSON**.
 - All searches are **case-insensitive**.
 - Numeric fields such as IDs and year values are automatically parsed as integers.
