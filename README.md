@@ -16,7 +16,7 @@ Click any link below to test each API endpoint directly.
 
 ---
 
-## Paintings Endpoints
+## Painting Endpoints
 
 - https://art-gallery-api-y79h.onrender.com/api/paintings  
 - https://art-gallery-api-y79h.onrender.com/api/painting/433  
@@ -44,7 +44,7 @@ Click any link below to test each API endpoint directly.
 
 ---
 
-## Galleries Endpoints
+## Gallery Endpoints
 
 - https://art-gallery-api-y79h.onrender.com/api/galleries  
 - https://art-gallery-api-y79h.onrender.com/api/galleries/france  
